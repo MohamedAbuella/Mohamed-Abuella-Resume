@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6840 64-bit) (preloaded format=pdflatex 2018.12.10)  21 JUL 2019 19:19
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6840 64-bit) (preloaded format=pdflatex 2018.12.10)  21 JUL 2019 19:29
 entering extended mode
 **"./Mohamed Abuella_Resume_AI.tex"
 ("Mohamed Abuella_Resume_AI.tex"
@@ -832,11 +832,11 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
  ) 
 Here is how much of TeX's memory you used:
- 22590 strings out of 492970
- 381557 string characters out of 3125705
+ 22592 strings out of 492970
+ 381581 string characters out of 3125705
  463226 words of memory out of 3000000
  26239 multiletter control sequences out of 15000+200000
- 581066 words of font info for 66 fonts, out of 3000000 for 9000
+ 581167 words of font info for 67 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  55i,11n,65p,795b,334s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Users/Mhdella/AppData/Local/Programs/MiKTeX 2.9/fonts/enc/dvips/lm/lm-ec.
@@ -849,7 +849,7 @@ b><C:/Users/Mhdella/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/lm/lms
 s10.pfb><C:/Users/Mhdella/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/
 lm/lmssbx10.pfb><C:/Users/Mhdella/AppData/Local/Programs/MiKTeX 2.9/fonts/type1
 /public/lm/lmsso10.pfb>
-Output written on "Mohamed Abuella_Resume_AI.pdf" (1 page, 133234 bytes).
+Output written on "Mohamed Abuella_Resume_AI.pdf" (1 page, 133239 bytes).
 PDF statistics:
  68 PDF objects out of 1000 (max. 8388607)
  7 named destinations out of 1000 (max. 500000)
