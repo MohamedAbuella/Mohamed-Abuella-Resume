@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6840 64-bit) (preloaded format=pdflatex 2018.12.10)  26 JUL 2019 20:51
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6840 64-bit) (preloaded format=pdflatex 2018.12.10)  30 JUL 2019 10:29
 entering extended mode
 **"./Mohamed Abuella_CV_SG.tex"
 ("Mohamed Abuella_CV_SG.tex"
@@ -811,19 +811,19 @@ Underfull \hbox (badness 10000) in paragraph at lines 77--77
 LaTeX Font Info:    Font shape `T1/lmss/b/n' in size <14.4> not available
 (Font)              Font shape `T1/lmss/bx/n' tried instead on input line 80.
 LaTeX Font Info:    Font shape `T1/lmss/b/n' in size <10.95> not available
-(Font)              Font shape `T1/lmss/bx/n' tried instead on input line 101.
+(Font)              Font shape `T1/lmss/bx/n' tried instead on input line 103.
 LaTeX Font Info:    Font shape `T1/lmss/m/it' in size <10> not available
-(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 127.
+(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 129.
 [1
 
 {C:/Users/Mhdella/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 278.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 280.
 
 [2]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 278.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 280.
  ("Mohamed Abuella_CV_SG.aux")
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 278.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 278.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 280.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 280.
 Package rerunfilecheck Info: File `"Mohamed Abuella_CV_SG".out' has not changed
 .
 (rerunfilecheck)             Checksum: 5A699E03ABFB07818BBEDFCBBF075331;470.
@@ -833,11 +833,11 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
  ) 
 Here is how much of TeX's memory you used:
- 22600 strings out of 492970
- 381636 string characters out of 3125705
+ 22602 strings out of 492970
+ 381660 string characters out of 3125705
  465431 words of memory out of 3000000
  26242 multiletter control sequences out of 15000+200000
- 581369 words of font info for 69 fonts, out of 3000000 for 9000
+ 581470 words of font info for 70 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  55i,12n,65p,791b,335s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Users/Mhdella/AppData/Local/Programs/MiKTeX 2.9/fonts/enc/dvips/lm/lm-ec.
@@ -850,7 +850,7 @@ b><C:/Users/Mhdella/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/lm/lms
 s10.pfb><C:/Users/Mhdella/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/
 lm/lmssbx10.pfb><C:/Users/Mhdella/AppData/Local/Programs/MiKTeX 2.9/fonts/type1
 /public/lm/lmsso10.pfb>
-Output written on "Mohamed Abuella_CV_SG.pdf" (2 pages, 136071 bytes).
+Output written on "Mohamed Abuella_CV_SG.pdf" (2 pages, 136123 bytes).
 PDF statistics:
  78 PDF objects out of 1000 (max. 8388607)
  8 named destinations out of 1000 (max. 500000)
