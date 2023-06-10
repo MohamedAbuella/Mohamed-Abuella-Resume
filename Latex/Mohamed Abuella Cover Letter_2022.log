@@ -1,7 +1,7 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6840 64-bit) (preloaded format=pdflatex 2018.12.10)  10 JUN 2023 08:51
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6840 64-bit) (preloaded format=pdflatex 2018.12.10)  10 JUN 2023 09:16
 entering extended mode
-**"./Mohamed Abuella_CV_2022.tex"
-("Mohamed Abuella_CV_2022.tex"
+**"./Mohamed Abuella Cover Letter_2022.tex"
+("Mohamed Abuella Cover Letter_2022.tex"
 LaTeX2e <2018-04-01> patch level 5
 
 ("C:\Users\Mhdella\AppData\Local\Programs\MiKTeX 2.9\tex\latex\moderncv\modernc
@@ -619,27 +619,27 @@ Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 )
 \Hy@SectionHShift=\skip80
 )
-Package hyperref Info: Option `breaklinks' set `true' on input line 76.
-Package hyperref Info: Option `bookmarksopen' set `true' on input line 76.
- ("Mohamed Abuella_CV_2022.aux")
-\openout1 = `"Mohamed Abuella_CV_2022.aux"'.
+Package hyperref Info: Option `breaklinks' set `true' on input line 72.
+Package hyperref Info: Option `bookmarksopen' set `true' on input line 72.
+ ("Mohamed Abuella Cover Letter_2022.aux")
+\openout1 = `"Mohamed Abuella Cover Letter_2022.aux"'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 76.
-LaTeX Font Info:    ... okay on input line 76.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 76.
-LaTeX Font Info:    ... okay on input line 76.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 76.
-LaTeX Font Info:    ... okay on input line 76.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 76.
-LaTeX Font Info:    ... okay on input line 76.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 76.
-LaTeX Font Info:    ... okay on input line 76.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 76.
-LaTeX Font Info:    ... okay on input line 76.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 76.
-LaTeX Font Info:    ... okay on input line 76.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 76.
-LaTeX Font Info:    ... okay on input line 76.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 72.
+LaTeX Font Info:    ... okay on input line 72.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 72.
+LaTeX Font Info:    ... okay on input line 72.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 72.
+LaTeX Font Info:    ... okay on input line 72.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 72.
+LaTeX Font Info:    ... okay on input line 72.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 72.
+LaTeX Font Info:    ... okay on input line 72.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 72.
+LaTeX Font Info:    ... okay on input line 72.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 72.
+LaTeX Font Info:    ... okay on input line 72.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 72.
+LaTeX Font Info:    ... okay on input line 72.
 
 ("C:\Users\Mhdella\AppData\Local\Programs\MiKTeX 2.9\tex\context\base\supp-pdf.
 mkii"
@@ -671,7 +671,7 @@ Package grfext Info: Graphics extension search list:
 G,.JBIG2,.JB2,.eps]
 (grfext)             \AppendGraphicsExtensions on input line 456.
 )
-LaTeX Info: Redefining \microtypecontext on input line 76.
+LaTeX Info: Redefining \microtypecontext on input line 72.
 Package microtype Info: Generating PDF output.
 Package microtype Info: Character protrusion enabled (level 2).
 Package microtype Info: Using default protrusion set `alltext'.
@@ -686,7 +686,7 @@ Package microtype Info: No adjustment of character kerning.
 .cfg"
 File: mt-ppl.cfg 2005/11/16 v1.6 microtype config. file: Palatino (RS)
 )
-LaTeX Font Info:    Try loading font information for T1+lmss on input line 76.
+LaTeX Font Info:    Try loading font information for T1+lmss on input line 72.
 
 ("C:\Users\Mhdella\AppData\Local\Programs\MiKTeX 2.9\tex\latex\lm\t1lmss.fd"
 File: t1lmss.fd 2009/10/30 v1.6 Font defs for Latin Modern
@@ -704,15 +704,15 @@ Package microtype Info: Loading generic protrusion settings for font family
 * layout: <same size as paper>
 * layoutoffset:(h,v)=(0.0pt,0.0pt)
 * modes: 
-* h-part:(L,W,R)=(30.71663pt, 552.86174pt, 30.71663pt)
-* v-part:(T,H,B)=(31.80072pt, 715.46812pt, 47.70114pt)
+* h-part:(L,W,R)=(76.78688pt, 460.72124pt, 76.78688pt)
+* v-part:(T,H,B)=(79.49698pt, 596.22748pt, 119.24553pt)
 * \paperwidth=614.295pt
 * \paperheight=794.96999pt
-* \textwidth=552.86174pt
-* \textheight=715.46812pt
-* \oddsidemargin=-41.55336pt
-* \evensidemargin=-41.55336pt
-* \topmargin=-77.46927pt
+* \textwidth=460.72124pt
+* \textheight=596.22748pt
+* \oddsidemargin=4.51689pt
+* \evensidemargin=4.51689pt
+* \topmargin=-29.77301pt
 * \headheight=12.0pt
 * \headsep=25.0pt
 * \topskip=11.0pt
@@ -731,7 +731,7 @@ Package microtype Info: Loading generic protrusion settings for font family
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
 \AtBeginShipoutBox=\box47
-Package hyperref Info: Link coloring OFF on input line 76.
+Package hyperref Info: Link coloring OFF on input line 72.
 
 ("C:\Users\Mhdella\AppData\Local\Programs\MiKTeX 2.9\tex\latex\hyperref\nameref
 .sty"
@@ -743,34 +743,32 @@ Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 )
 \c@section@level=\count268
 )
-LaTeX Info: Redefining \ref on input line 76.
-LaTeX Info: Redefining \pageref on input line 76.
-LaTeX Info: Redefining \nameref on input line 76.
- ("Mohamed Abuella_CV_2022.out") ("Mohamed Abuella_CV_2022.out")
+LaTeX Info: Redefining \ref on input line 72.
+LaTeX Info: Redefining \pageref on input line 72.
+LaTeX Info: Redefining \nameref on input line 72.
+ ("Mohamed Abuella Cover Letter_2022.out")
+("Mohamed Abuella Cover Letter_2022.out")
 \@outlinefile=\write3
-\openout3 = `"Mohamed Abuella_CV_2022.out"'.
+\openout3 = `"Mohamed Abuella Cover Letter_2022.out"'.
 
-\pagenumberwidth=\skip81
-LaTeX Font Info:    Font shape `T1/lmss/m/it' in size <10.95> not available
-(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 76.
 LaTeX Font Info:    Font shape `T1/lmss/b/n' in size <24.88> not available
-(Font)              Font shape `T1/lmss/bx/n' tried instead on input line 79.
-LaTeX Font Info:    Try loading font information for OMS+qpl on input line 79.
-LaTeX Font Info:    No file OMSqpl.fd. on input line 79.
+(Font)              Font shape `T1/lmss/bx/n' tried instead on input line 97.
+LaTeX Font Info:    Try loading font information for OMS+qpl on input line 97.
+LaTeX Font Info:    No file OMSqpl.fd. on input line 97.
 
 
 LaTeX Font Warning: Font shape `OMS/qpl/m/n' undefined
 (Font)              using `OMS/cmsy/m/n' instead
-(Font)              for symbol `textbullet' on input line 79.
+(Font)              for symbol `textbullet' on input line 97.
 
 LaTeX Font Info:    Try loading font information for U+fontawesomethree on inpu
-t line 79.
+t line 97.
 
 ("C:\Users\Mhdella\AppData\Local\Programs\MiKTeX 2.9\tex\latex\fontawesome\ufon
 tawesomethree.fd"
 File: ufontawesomethree.fd 2016/05/22 Font definitions for U/fontawesomethree.
 )
-LaTeX Font Info:    Try loading font information for OT1+lmr on input line 79.
+LaTeX Font Info:    Try loading font information for OT1+lmr on input line 97.
 
 ("C:\Users\Mhdella\AppData\Local\Programs\MiKTeX 2.9\tex\latex\lm\ot1lmr.fd"
 File: ot1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
@@ -780,79 +778,74 @@ File: ot1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
 File: mt-cmr.cfg 2013/05/19 v2.2 microtype config. file: Computer Modern Roman 
 (RS)
 )
-LaTeX Font Info:    Try loading font information for OML+lmm on input line 79.
+LaTeX Font Info:    Try loading font information for OML+lmm on input line 97.
 
 ("C:\Users\Mhdella\AppData\Local\Programs\MiKTeX 2.9\tex\latex\lm\omllmm.fd"
 File: omllmm.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
-LaTeX Font Info:    Try loading font information for OMS+lmsy on input line 79.
+LaTeX Font Info:    Try loading font information for OMS+lmsy on input line 97.
 
 
 ("C:\Users\Mhdella\AppData\Local\Programs\MiKTeX 2.9\tex\latex\lm\omslmsy.fd"
 File: omslmsy.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
-LaTeX Font Info:    Try loading font information for OMX+lmex on input line 79.
+LaTeX Font Info:    Try loading font information for OMX+lmex on input line 97.
 
 
 ("C:\Users\Mhdella\AppData\Local\Programs\MiKTeX 2.9\tex\latex\lm\omxlmex.fd"
 File: omxlmex.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <10.95> on input line 79.
+(Font)              <10.95> on input line 97.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <8> on input line 79.
+(Font)              <8> on input line 97.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <6> on input line 79.
+(Font)              <6> on input line 97.
 
-Underfull \hbox (badness 10000) in paragraph at lines 79--79
+Underfull \hbox (badness 10000) in paragraph at lines 97--97
 
  []
 
-LaTeX Font Info:    Font shape `T1/lmss/b/n' in size <14.4> not available
-(Font)              Font shape `T1/lmss/bx/n' tried instead on input line 82.
 LaTeX Font Info:    Font shape `T1/lmss/b/n' in size <10.95> not available
 (Font)              Font shape `T1/lmss/bx/n' tried instead on input line 97.
-LaTeX Font Info:    Font shape `T1/lmss/m/it' in size <10> not available
-(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 123.
 [1
 
 {C:/Users/Mhdella/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 283.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 172.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 172.
 
-[2]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 283.
- ("Mohamed Abuella_CV_2022.aux")
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 283.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 283.
-Package rerunfilecheck Info: File `"Mohamed Abuella_CV_2022".out' has not chang
-ed.
-(rerunfilecheck)             Checksum: 5A699E03ABFB07818BBEDFCBBF075331;470.
+("Mohamed Abuella Cover Letter_2022.aux")
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 172.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 172.
+Package rerunfilecheck Info: File `"Mohamed Abuella Cover Letter_2022".out' has
+ not changed.
+(rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
 
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
  ) 
 Here is how much of TeX's memory you used:
- 22604 strings out of 492970
- 381728 string characters out of 3125705
- 463413 words of memory out of 3000000
- 26242 multiletter control sequences out of 15000+200000
- 581571 words of font info for 71 fonts, out of 3000000 for 9000
+ 22553 strings out of 492970
+ 381159 string characters out of 3125705
+ 459210 words of memory out of 3000000
+ 26219 multiletter control sequences out of 15000+200000
+ 569272 words of font info for 57 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 55i,13n,65p,793b,348s stack positions out of 5000i,500n,10000p,200000b,50000s
-{C:/Users/Mhdella/AppData/Local/Programs/MiKTeX 2.9/fonts/enc/dvips/lm/lm-ec.
-enc}{C:/Users/Mhdella/AppData/Local/Programs/MiKTeX 2.9/fonts/enc/dvips/fontawe
-some/fontawesomethree.enc}{C:/Users/Mhdella/AppData/Local/Programs/MiKTeX 2.9/f
-onts/enc/dvips/fontawesome/fontawesometwo.enc}<C:/Users/Mhdella/AppData/Local/P
+ 55i,11n,65p,803b,338s stack positions out of 5000i,500n,10000p,200000b,50000s
+{C:/Users/Mhdella/AppData/Local/Programs/MiKTeX 2.9/fonts/enc/dvips/fontaweso
+me/fontawesomethree.enc}{C:/Users/Mhdella/AppData/Local/Programs/MiKTeX 2.9/fon
+ts/enc/dvips/fontawesome/fontawesometwo.enc}{C:/Users/Mhdella/AppData/Local/Pro
+grams/MiKTeX 2.9/fonts/enc/dvips/lm/lm-ec.enc}<C:/Users/Mhdella/AppData/Local/P
 rograms/MiKTeX 2.9/fonts/type1/public/fontawesome/FontAwesome.pfb><C:/Users/Mhd
 ella/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pf
 b><C:/Users/Mhdella/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/lm/lms
 s10.pfb><C:/Users/Mhdella/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/
-lm/lmssbx10.pfb><C:/Users/Mhdella/AppData/Local/Programs/MiKTeX 2.9/fonts/type1
-/public/lm/lmsso10.pfb>
-Output written on "Mohamed Abuella_CV_2022.pdf" (2 pages, 138065 bytes).
+lm/lmssbx10.pfb>
+Output written on "Mohamed Abuella Cover Letter_2022.pdf" (1 page, 74695 bytes)
+.
 PDF statistics:
- 79 PDF objects out of 1000 (max. 8388607)
- 8 named destinations out of 1000 (max. 500000)
- 14889 words of extra memory for PDF output out of 17280 (max. 10000000)
+ 42 PDF objects out of 1000 (max. 8388607)
+ 2 named destinations out of 1000 (max. 500000)
+ 9729 words of extra memory for PDF output out of 10000 (max. 10000000)
 
